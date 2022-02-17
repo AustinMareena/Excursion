@@ -20,4 +20,32 @@ html {
 .download-link {
     color: aquamarine;
     font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.article-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.main-video {
+    margin-bottom: 25px;
+}
+
+.article-desc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    margin: 25px 0px;
+}
+
+.phone-icon {
+    margin: 25px 0px;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
 }
